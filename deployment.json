@@ -1,0 +1,15 @@
+{
+  "name" : "Curl",
+  "display_name" : "Curl Http Requests",
+  "version" : "1.0.0",
+  "type": ["zray"],
+  "dependencies": {
+    "plugin": {
+      "min": "1.0",
+      "max": "2.0"
+    },
+    "php": {
+      "min": "5.4"
+    }
+  }
+}
